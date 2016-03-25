@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.rosterloh.homecloud.MainActivity" >
+    <item android:id="@+id/action_authorize_more_devices"
+        android:title="@string/menu_more_devices"
+        android:icon="@drawable/ic_add_white_24dp"
+        app:showAsAction="never" />
+</menu>
